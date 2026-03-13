@@ -3,6 +3,8 @@
 ## Research Overview
 This project investigates multimodal emotion recognition using a Transformer-based architecture designed to fuse audio and visual data. The primary goal is to capture fine-grained human emotions by modeling both intra-modal temporal dependencies and inter-modal interactions. By focusing on nonverbal pathways (audio and video), the research evaluates the capacity of these modalities to predict emotional intensity while excluding textual input to avoid linguistic bias.
 
+[Read the full research paper here](https://github.com/Big-ShahMir/Multimodal-Emotion-Understanding/blob/main/Final%20Report.pdf)
+
 ## Methodology & Architecture
 The model utilizes a sophisticated fusion pipeline to process and align disparate data streams:
 
