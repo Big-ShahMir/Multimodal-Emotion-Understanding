@@ -1,1 +1,2 @@
-# Multimodal-Emotion-Emotion-Understanding
+# Emotion Recognition ML Project
+
